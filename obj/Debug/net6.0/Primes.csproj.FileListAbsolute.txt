@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Learning Place\Primes\bin\Debug\net6.0\Primes.exe
+C:\Users\Administrator\Desktop\Learning Place\Primes\bin\Debug\net6.0\Primes.deps.json
+C:\Users\Administrator\Desktop\Learning Place\Primes\bin\Debug\net6.0\Primes.runtimeconfig.json
+C:\Users\Administrator\Desktop\Learning Place\Primes\bin\Debug\net6.0\Primes.dll
+C:\Users\Administrator\Desktop\Learning Place\Primes\bin\Debug\net6.0\Primes.pdb
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.dll
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\refint\Primes.dll
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.pdb
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\Primes.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Learning Place\Primes\obj\Debug\net6.0\ref\Primes.dll
